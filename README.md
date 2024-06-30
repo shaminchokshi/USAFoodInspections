@@ -4,5 +4,7 @@ Developed a comprehensive data integration and analysis solution for food inspec
 <br>
 PowerBI Dashboard: <href>https://app.powerbi.com/groups/dfef58df-00ac-4b2a-8178-c62989cb5447/reports/e435370e-412c-4eb6-a1c7-e37c481debb0/ReportSection?experience=power-bi 
 <br>
+![USA Food Inspection Dashboard](https://github.com/shaminchokshi/USAFoodInspections/assets/62183907/5fc401d4-1f3e-4c31-95ac-4ad9925b6164)
+
 <br>
 Tableau Dashboard:<href>https://prod-useast-b.online.tableau.com/#/site/neudamg7370/workbooks/1302262/views
